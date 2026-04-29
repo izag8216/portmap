@@ -3,7 +3,7 @@
 <!-- Header SVG: assets/header.svg -->
 
 <p align="center">
-  <img src="assets/header.svg" alt="portmap" width="400"/>
+  <img src="https://raw.githubusercontent.com/izag8216/portmap/master/assets/header.svg" alt="portmap" width="400"/>
 </p>
 
 <!-- Badges -->
